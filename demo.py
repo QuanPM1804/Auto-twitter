@@ -33,7 +33,7 @@ debug_mode = False
 
 
 
-password = 'Stella1234'
+password = ''
 
 email =''
 code_mail=''
@@ -44,7 +44,7 @@ username=''
 
 
 
-list_key_tinsoft = ['TLBVlTKqeYzUdwuUeUdoKBDKbTtxbWfLx2p0lX']
+list_key_tinsoft = ['']
 
 
 proc = subprocess.Popen('adb devices', shell=True, stdout=subprocess.PIPE, creationflags=CREATE_NO_WINDOW)
