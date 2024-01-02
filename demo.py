@@ -42,8 +42,6 @@ username=''
 # LOI_DANG_KI=''
 
 
-
-
 list_key_tinsoft = ['']
 
 
